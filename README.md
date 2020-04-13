@@ -12,5 +12,12 @@ Il programma utilizza:
 - cron per aggiornare i valori mqtt a intervalli regolari
 - python per creare la maschera con tkinter e paho mqtt
 
-L'idea è in continua evoluzione.
+L'idea è in continua evoluzione....
+
+Ogni minuto il raspberry esegue, con crontab:
+
+* * * * * /bin/sh /start_sensoriraspberry.sh
+
+
+
 
