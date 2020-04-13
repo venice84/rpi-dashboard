@@ -1,5 +1,3 @@
-#*-*-*-*-*-*-*-*-*-*-*-*-* By Okocim 84 *-*-*-*-*-*-*-*-*-*-*-*-*#
-
 from tkinter import * #Tkinter for python 2x
 import time # reads the time
 import locale # time conversion
