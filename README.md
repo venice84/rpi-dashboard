@@ -1,6 +1,6 @@
 # rpi-dashboard
 
-Faccio una premessa, non sono un programmatore e questo launcher è stato creato come passatempo. ;)
+Devo fare una premessa, non sono un programmatore e questo launcher è stato creato come passatempo. ;)
 Sono sicuro che non sarà elegante o ottimizzato, ma fa esattamente quello che cercavo.
 
 L'obbiettivo era quello di utilizzare il mio raspberry con display osoyoo 3.5", in modo da poter visualizzare
