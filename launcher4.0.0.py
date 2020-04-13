@@ -75,7 +75,7 @@ def on_message_ram_occ(client, userdata, message):
     ram='ram '+str(message.payload.decode("utf-8")+'%')
     label_info3.config(text=ram)
     
-#MQTT DEFAULT definizioni iniziali per connettersi
+#MQTT DEFAULT settings
 broker_address="192.168.x.x"
 user = "user"
 password = "password"
