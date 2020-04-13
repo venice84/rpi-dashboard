@@ -24,7 +24,7 @@ Dato che utilizzo regolarmente Homeassistant per la domotica casalinga, mi piace
 
 Ogni minuto il raspberry esegue, con crontab:
 
-* * * * * /bin/sh /start_sensoriraspberry.sh
+/bin/sh /start_sensoriraspberry.sh
 
 
 
